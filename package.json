@@ -1,0 +1,17 @@
+{
+  "name": "ff-info-api",
+  "version": "1.0.0",
+  "description": "Free Fire Player Info API for OskarShop",
+  "main": "api/index.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
