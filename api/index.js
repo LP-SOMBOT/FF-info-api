@@ -22,6 +22,6 @@ module.exports = (req, res) => {
       'SG', 'ME', 'IND', 'ID', 'BD', 'BR',
       'PK', 'US', 'NA', 'SAC', 'VN', 'TH', 'TW', 'CIS', 'EU', 'MY'
     ],
-    docs: 'https://github.com/yourusername/ff-info-api',
+    docs: 'https://github.com/LP-SOMBOT/FF-info-api',
   });
 };
